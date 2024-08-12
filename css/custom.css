@@ -773,7 +773,7 @@ ul {
 
 .contact-main {
     padding: 150px 0;
-    background-image: url(../../portfolio/images/bg.jpg);
+    background-image: url(/images/bg.jpg);
 }
 
 .contact-main h2 {
