@@ -367,6 +367,8 @@ ul {
     gap: 40px;
     align-items: center;
     max-width: 100%;
+    z-index: 11;
+    position: relative;
 }
 
 .hero-main .hero-wrap .column-left {
