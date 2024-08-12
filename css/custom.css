@@ -832,7 +832,7 @@ ul {
 }
 .contact-main .contact-form .submit-btn {text-align: left;}
 
-.contact-main .contact-form .submit-btn a {
+.contact-main .contact-form .submit-btn button {
     font-size: 16px;
     line-height: 28px;
     background: #000;
@@ -847,7 +847,7 @@ ul {
     min-width: 130px;
 }
 
-.contact-main .contact-form .submit-btn a:hover {
+.contact-main .contact-form .submit-btn button:hover {
     background: -webkit-linear-gradient(rgb(21 159 243), rgb(80 74 108));
     color: #fff;
 }
