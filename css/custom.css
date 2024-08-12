@@ -773,7 +773,7 @@ ul {
 
 .contact-main {
     padding: 150px 0;
-    background-image: url(F:/jahanvi/portfolio/images/bg.jpg);
+    background-image: url(../../portfolio/images/bg.jpg);
 }
 
 .contact-main h2 {
@@ -845,6 +845,8 @@ ul {
     transition: all .3s linear;
     text-align: center;
     min-width: 130px;
+    /* outline: none; */
+    border: none;
 }
 
 .contact-main .contact-form .submit-btn button:hover {
