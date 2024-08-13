@@ -33,14 +33,6 @@ var $ = jQuery;
             loop: true
           });
 
-
-
-        jQuery('.subscribe a').click(function() {
-            jQuery('body').addClass('popup-active');
-        });
-        jQuery('.popup-close').click(function() {
-            jQuery('body').removeClass('popup-active');
-        });
     });
 
     jQuery('.js-anchor-link').click(function(e){
@@ -54,19 +46,4 @@ var $ = jQuery;
 
 
 })(jQuery);
-
-
-
-
-
-    // jQuery('.list > .list-item:not(.active) > .body').hide();
-	// jQuery(document).on("click",".list > .list-item .heading",function() {
-	//     if (jQuery(this).parents('.list-item').hasClass("active")) {
-	//       jQuery(this).parents('.list-item').removeClass("active").find(".body").slideUp();
-	//     } else {
-	//       jQuery(".list > .list-item.active .body").slideUp();
-	//       jQuery(".list > .list-item.active").removeClass("active");
-	//       jQuery(this).parents('.list-item').addClass("active").find(".body").slideDown();
-	//     }
-	// });
 
