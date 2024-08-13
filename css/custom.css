@@ -389,13 +389,10 @@ ul {
 .hero-main .hero-wrap .column-left p {
     font-size: 16px;
     line-height: 2;
-    /* background: #000; */
     text-transform: capitalize;
     color: #fff;
-    /* padding: 3px 7px 0; */
     width: 450px;
     max-width: 100%;
-    /* border-radius: 4px; */
 }
 
 .hero-main .hero-wrap .column-left h2 {
